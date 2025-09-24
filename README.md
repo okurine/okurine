@@ -3,7 +3,7 @@ I'm Ella Xu! I'm a Computer Science student at Northeastern University, passiona
 
 ## Technology and Tools
 
-Java, C++, SQL, GitHub, IntelliJ IDEA, VS Code, Eclipse, Unity, Ubuntu Linux 
+Java, C++, SQL, GitHub, IntelliJ IDEA, VS Code, Docker, DataGrip, Eclipse, Unity, Ubuntu Linux 
 
 ## Interests
 * Computer Science and Software Engineering: Building software to automate time-consuming tasks!
@@ -19,7 +19,7 @@ The Brain Rots: Collaborated and developed a playable RPG shooter game as a team
 
 ## Connect with me! 
 * Github: github.com/okurine
-* Linkedln: linkedin.com/in/ella-xu-a94a4735a/
+* Linkedln: linkedin.com/in/ellarxu/
 * Email: ellaxu621@gmail.com
 <!--
 **okurine/okurine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
