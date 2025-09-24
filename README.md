@@ -7,7 +7,9 @@ Java, C++, SQL, GitHub, IntelliJ IDEA, VS Code, Docker, DataGrip, Eclipse, Unity
 
 ## Interests
 * Computer Science and Software Engineering: Building software to automate time-consuming tasks!
+  
 * Cybersecurity: Applying security procedures to prevent potential security risks and data leaks!
+  
 * Game Design: Explore creating games with gameplay mechanics that align with the storyline!
 
 ## Projects
