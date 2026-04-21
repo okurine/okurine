@@ -1,21 +1,28 @@
 ## Hey there! 👋
-I'm Ella Xu! I'm a Computer Science student at Northeastern University, passionate about applying computer science and cybersecurity to help people with everyday tasks while maintaining data security. I'm also interested in game development, where I experiment with designing games that incorporate fun mechanics that teach the player something new.
+I am a Computer Science student at Northeastern University graduating in 2028, focused on full-stack development and API design. In Spring 2025, I built a Java-based calendar application with modular code organization across both a GUI and CLI. In Fall 2025, I collaborated on a medical records system with a relational database and Flask API to manage data permissions across user roles. Most recently, I've been building a full-stack Learning Management System to deepen my experience with modern frontend frameworks and state management. Outside of class, I enjoy trying new restaurants with friends.
 
 ## Technology and Tools
 
-Java, C++, SQL, GitHub, IntelliJ IDEA, VS Code, Docker, DataGrip, Eclipse, Unity, Ubuntu Linux 
+**Languages:** Java, C++, Python, TypeScript, JavaScript, SQL
+
+**Frameworks & Libraries:** React, Next.js, Redux, Node.js, Express, Flask, Bootstrap, Streamlit
+
+**Databases:** MongoDB, MySQL
+
+**Tools & Platforms:** GitHub, Docker, Vercel, Render, IntelliJ IDEA, VS Code, DataGrip, Eclipse, Unity, Ubuntu Linux
 
 ## Interests
-* Computer Science and Software Engineering: Building software to automate time-consuming tasks!
-  
-* Cybersecurity: Applying security procedures to prevent potential security risks and data leaks!
-  
-* Game Design: Explore creating games with gameplay mechanics that align with the storyline!
+
+- **Software Engineering:** Building tools that automate tedious, time-consuming work
+- **AI:** Integrating AI into applications to make them smarter and more adaptive
+- **Game Design:** Creating games with mechanics that reinforce the story being told
 
 ## Projects
 Calendar Application: Implemented a calendar with a partner that supports CLI and GUI interfaces; allows creating, editing, querying, single or series of events; made with Java and MVC design <br>
 
-Light Puzzle: Collaborated with a partner to develop a puzzle game featuring a GUI with interactive mouse controls. Implemented random puzzle generation and visual feedback for pieces using the Breadth-First Search (BFS) algorithm <br>
+MediVerse: Collaborated with a team of 3 to develop a role-based medical records system with administrator, doctor, and patient views and RESTful Flask APIs for data management; made with Python, Flask, MySQL, and Streamlit <br>
+
+Kambaz: Built a full-stack Canvas-inspired learning management system supporting courses, assignments, enrollments, and role-based access for faculty and students; made with TypeScript, Next.js, Redux, Node.js, Express, and MongoDB <br>
 
 The Brain Rots: Collaborated and developed a playable RPG shooter game as a team of 5 within 1 week for the Jam o' Lantern 2024 game jam; made with Unity and C#
 
