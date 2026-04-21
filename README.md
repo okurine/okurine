@@ -18,11 +18,11 @@ I am a Computer Science student at Northeastern University graduating in 2028, f
 - **Game Design:** Creating games with mechanics that reinforce the story being told
 
 ## Projects
-Calendar Application: Implemented a calendar with a partner that supports CLI and GUI interfaces; allows creating, editing, querying, single or series of events; made with Java and MVC design <br>
-
 MediVerse: Collaborated with a team of 3 to develop a role-based medical records system with administrator, doctor, and patient views and RESTful Flask APIs for data management; made with Python, Flask, MySQL, and Streamlit <br>
 
 Kambaz: Built a full-stack Canvas-inspired learning management system supporting courses, assignments, enrollments, and role-based access for faculty and students; made with TypeScript, Next.js, Redux, Node.js, Express, and MongoDB <br>
+
+Calendar Application: Implemented a calendar with a partner that supports CLI and GUI interfaces; allows creating, editing, querying, single or series of events; made with Java and MVC design <br>
 
 The Brain Rots: Collaborated and developed a playable RPG shooter game as a team of 5 within 1 week for the Jam o' Lantern 2024 game jam; made with Unity and C#
 
